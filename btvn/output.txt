@@ -1,0 +1,12 @@
+----- Command: dá»ir -----
+sh: 1: dá»ir: not found
+
+----- Command: dir -----
+output.txt  server  telnet_server.c  temp_1206.txt  users.txt
+
+----- Command: pwd -----
+/home/kn/network-lab/5-5/btvn
+
+----- Command: dir -----
+output.txt  server  telnet_server.c  temp_1276.txt  users.txt
+
